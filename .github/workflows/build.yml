@@ -30,7 +30,7 @@ jobs:
         arch:
           - aarch64_cortex-a53                
         sdk:
-          - 21.02.3       
+          - openwrt-21.02       
 
     steps:
       - uses: actions/checkout@v4
